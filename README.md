@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Bijay Joshi
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa- 👋 Hi, I’m @Bijay Joshi
 - 👀 I’m interested in Javascript, Angular, C#
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on projects related to artificial inteligence.
 - 📫 Twitter: @GoalLessWin
 
 <!---
